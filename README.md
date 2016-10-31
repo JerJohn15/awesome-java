@@ -519,6 +519,9 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
 * [OpenRefine](http://openrefine.org/) - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
 * [TypeTools](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
+* [JD eSurvey](https://github.com/JD-Software/JDeSurvey) - An open-source web application developed by JD Software for the creation, collection, and analysis of surveys.
+* [Projects](https://github.com/karan/Projects) - A list of project ideas that can be solved in any programming language. 
+* [Open MRS] - An open source electronic medical records system.
 
 ## Microservice
 
