@@ -517,11 +517,12 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Membrane Service Proxy](https://github.com/membrane/service-proxy) - An open source, reverse proxy framework written in Java.
 * [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial) - Popular Java 8 guide.
 * [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
-* [OpenRefine](http://openrefine.org/) - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
-* [TypeTools](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
-* [JD eSurvey](https://github.com/JD-Software/JDeSurvey) - An open-source web application developed by JD Software for the creation, collection, and analysis of surveys.
-* [Projects](https://github.com/karan/Projects) - A list of project ideas that can be solved in any programming language. 
+* [JD eSurvey](https://github.com/JD-Software/JDeSurvey) - An open-source web application developed by JD Software for the creation, collection, and analysis of surveys
 * [Open MRS] - An open source electronic medical records system.
+* [OpenRefine](http://openrefine.org/) - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
+* [Projects](https://github.com/karan/Projects) - A list of project ideas that can be solved in any programming language. 
+* [TypeTools](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
+
 
 ## Microservice
 
@@ -826,6 +827,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Java Off Heap](http://www.javaoffheap.com/)
 * [The Java Council](http://virtualjug.com/podcast/)
 * [The Java Posse](http://www.javaposse.com/) - Discontinued as of 02/2015.
+
 
 ## Twitter
 
